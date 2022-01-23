@@ -7,8 +7,8 @@
 - 📫 You can reach me by <drumsris@gmail.com>
 
 ### Tools and Language
-[<https://www.google.com/url?sa=i&url=https%3A%2F%2Fjupyter.org%2F&psig=AOvVaw35eJbnDWIryr6Qbz482V07&ust=1643029349331000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjv87f3x_UCFQAAAAAdAAAAABAJ>][devplaylist]
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F619282&psig=AOvVaw1VTwNLS_WXlO8tinwp1Qmi&ust=1643029398110000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCEwdH3x_UCFQAAAAAdAAAAABAD][devplaylist]
+[<img align = "left" alt = "Jupyter Notebook" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][devplaylist]
+[<img align = "left" alt = "Python" width = "26px" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][devplaylist]
 <!---
 gerejere/gerejere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
